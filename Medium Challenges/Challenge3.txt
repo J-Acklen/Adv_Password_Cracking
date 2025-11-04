@@ -1,0 +1,7 @@
+This challenge requires a custom wordlist due to the known password format: St3w_H4IrL1n3_???? 
+Where the ? symbol is to be replaced by a number (e.g. St3w_H4IrL1n3_1337)
+
+b44becd5baec2bae85e8ca7800d61b49
+6c046323ba38d181550f8eb7f94939ee
+ad8f9cb5c04102fdf2dc66339ea95189
+c105ecb1d5eb6ada0abd5be08a0c0d91
